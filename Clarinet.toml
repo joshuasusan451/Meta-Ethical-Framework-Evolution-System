@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.ethical-framework-coherence]
+path = 'contracts/ethical-framework-coherence.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.moral-axiom-generation]
 path = 'contracts/moral-axiom-generation.clar'
 clarity_version = 2
